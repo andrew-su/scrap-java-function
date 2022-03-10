@@ -11,4 +11,4 @@ spec:
     git:
       ref:
         branch: main
-      url: https://github.com/andrew-su/scrap-java-functions.git
+      url: https://github.com/andrew-su/scrap-java-function.git
